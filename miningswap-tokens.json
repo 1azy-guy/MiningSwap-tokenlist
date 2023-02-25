@@ -6,13 +6,62 @@
     "minor": 0,
     "patch": 0
   },
-  "logoURI": "https://min.i.ng/images/logo.svg",
+  "logoURI": "https://app.min.i.ng/static/media/logo.78141f67.svg",
   "keywords": ["miningswap", "tokens"],
   "tokens": [
     {
       "name": "Min.i.ng",
+      "symbol": "TAXI",
+      "address": "0x5fFa61F0F6aa7cd3806e4a025446Ebd34bc58de2",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Min.i.ng",
       "symbol": "MINING",
       "address": "0x9636a568c53F40dF01cdAb64401A0b6bFaEa9095",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Mining.Taxi",
+      "symbol": "RIDE",
+      "address": "0x1d23074f63e368E9857430a8741Db9e6E33870B3",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Taxi.Community",
+      "symbol": "TCT",
+      "address": "0x9CAA75100E295560e8f621c0c7BD32A0dC180a35",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Premium.Coffee",
+      "symbol": "PREMIUM",
+      "address": "0x3E7c0Dd4efC3b5d98f7f7c9bdfc85294e09c344f",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Premium.Coffee",
+      "symbol": "COFFEE",
+      "address": "0xbe40B9289fA51DeA77d3FB472259D40FBfCe28E5",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Premium.Coffee",
+      "symbol": "CUP",
+      "address": "0x0a9df0BFE2AD8D343Db12D25f1c40cDB81DA2457",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "Coffee.Community",
+      "symbol": "CCT",
+      "address": "0xD7F81dfF698D0F5700bC5Da87c936bd05A5bA575",
       "chainId": 56,
       "decimals": 18
     },
